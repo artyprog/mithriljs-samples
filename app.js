@@ -1,2 +1,2 @@
-const app =  document.getElementById('main')    
-m.render(app, m("h1", "Hello MithrilJS"))
+const root =  document.getElementById('main')    
+m.render(root, m("h1", "Hello MithrilJS"))
